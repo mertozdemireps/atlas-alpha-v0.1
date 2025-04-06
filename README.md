@@ -1,7 +1,7 @@
 # Discord Bot Projesi
 
 <div align="center">
- <img src="[https://i.imgur.com/XYZ123.png](https://cpanel.mesart.tr/cpsess8870088961/frontend/jupiter/filemanager/showfile.html?file=Logo.png&fileop=&dir=%2Fhome%2Fmesart%2Fpublic_html&dirop=&charset=&file_charset=&baseurl=&basedir=)" alt="Discord Bot Logo" width="200">
+ <img src="mesart.tr/logo.png" alt="Discord Bot Logo" width="200">
   <br>
   <h3>Çok Fonksiyonlu Discord Bot</h3>
   <p>Gelişmiş moderasyon, giriş/çıkış sistemi, Minecraft entegrasyonu ve daha fazlası!</p>
