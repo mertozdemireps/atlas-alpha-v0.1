@@ -1,0 +1,19 @@
+{
+  "name": "tifabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SOULCASTLE & MORTUARY TARAFINDAN YAPILMIŞTIR BÜTÜN HAKLARI SAKLIDIR PAYLAŞILMASI VE SATIŞI YASAKTIR. KİŞİSEL KULLANIM LİSANSI VARDIR TİCARİ KULLANIMI YASAKTIR.",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.10.1",
+    "ascii-table": "^0.0.9",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.13.1"
+  }
+}

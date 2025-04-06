@@ -1,0 +1,20 @@
+{
+    "token": "TOKEN",
+    "mongodb": "MONGODB_URL",
+    "clientId": "BOT_ID",
+    "minecraftServer": {
+      "ip": "IP_ADRESİ",
+      "port": "PORT",
+      "version": "VERSİYON",
+      "name": "BAŞLIK_ADI",
+      "description": "AÇIKLAMA"
+    },
+    "website": {
+      "url": "WEBSİTE_URL",
+      "name": "SUNUCU_ADI",
+      "description": "SUNUCU_AÇIKLAMASI",
+      "color": "SUNUCU_RENK_KODU"
+    }
+  }
+  
+  
