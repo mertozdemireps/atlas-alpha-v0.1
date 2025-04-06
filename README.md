@@ -2,6 +2,7 @@
 
 <div align="center">
  <img src="mesart.tr/logo.png" alt="logo" width="200">
+ <a href="https://mesart.tr/images/logo"><img src="https://mesart.tr/images/logo.png" alt="logo"></a>
   <br>
   <h3>Çok Fonksiyonlu Discord Bot</h3>
   <p>Gelişmiş moderasyon, giriş/çıkış sistemi, Minecraft entegrasyonu ve daha fazlası!</p>
